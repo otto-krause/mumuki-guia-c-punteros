@@ -1,0 +1,24 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El valor de p es el de la dirección de memoria, por lo tanto si se modifica
+    la variable original, también se actualizará el valor de *p
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El valor de p es una copia de la dirección de memoria, por lo tanto si se
+    modifica la variable original, no se actualizará el valor de *p
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "*p vale 13"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "*p vale 12"
+  checked: false
+name: Y si modificamos la original?
