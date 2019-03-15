@@ -1,0 +1,2 @@
+Lo punteros van a ser muy utiles a la hora de pasar parámetros en funciones y a la hora de trabajar con vectores, nos facilitan los accesos a memoria. Otro lugar donde se usan punteros es en la función `scanf` te acordás que siempre tenés que ponerle un **&** a la variable en la que almacenas los datos? <br>
+No te preocupes, ya vamos a verlo en las próximas guías.
