@@ -1,1 +1,1 @@
-La respuesta está en tu corazón... y también en Japón.
+La respuesta está en tu corazón... y **también** en Japón.
