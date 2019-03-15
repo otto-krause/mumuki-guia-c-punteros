@@ -31,4 +31,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: La respuesta es Japón
   checked: true
-name: Nuevo ejercicio
+name: Se pueden crear bucles?
