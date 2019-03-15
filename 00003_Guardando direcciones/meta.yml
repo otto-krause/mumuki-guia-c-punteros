@@ -1,0 +1,22 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El puntero p1 almacena la dirección de memoria de la variable num
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El puntero p1 almacena la dirección de memoria número 7
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El puntero p2 almacena la dirección de memoria de la variable num
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El puntero p2 almacena la dirección de memoria número 7
+  checked: true
+name: Guardando direcciones
