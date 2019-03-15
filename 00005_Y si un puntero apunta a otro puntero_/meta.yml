@@ -1,0 +1,25 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "*p3 vale 28"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: p2 vale p1
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "*p2 vale 28"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "*p3 la dirección de memoria de p1"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "*p3 vale la dirección de memoria de num"
+  checked: true
+name: Y si un puntero apunta a otro puntero?
