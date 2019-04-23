@@ -1,5 +1,5 @@
 <h4> Alguna vez viste algo como esto adentro de tu computadora?</h4>
-<img src="https://cdn.pixabay.com/photo/2012/04/01/12/44/dimm-ram-23265_960_720.png" alt="" width="60%" height="auto">
+<img src="https://raw.githubusercontent.com/otto-krause/mumuki-guia-c-punteros/master/assets/CT51264BD160BJ-01_1556028611596.jpg" alt="CT51264BD160BJ-01_1556028611596.jpg" width="30%" height="auto">
 
 Se llama memoria ram, y es donde viven nuestros programas cuando los ejecutamos.<br>
 
