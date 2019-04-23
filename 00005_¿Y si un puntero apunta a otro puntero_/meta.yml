@@ -22,4 +22,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "*p3 vale la dirección de memoria de num"
   checked: true
-name: Y si un puntero apunta a otro puntero?
+name: "¿Y si un puntero apunta a otro puntero?"
